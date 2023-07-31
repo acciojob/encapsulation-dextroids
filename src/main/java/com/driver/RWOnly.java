@@ -7,6 +7,6 @@ public class RWOnly {
             return name;
 }
       public void setName(String name){
-            this.name=newName;
+            this.name=name;
       }
 }
